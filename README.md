@@ -1,7 +1,9 @@
 <p align="left">
   <img src="https://cloud.githubusercontent.com/assets/4659608/12700270/e1730608-c7ed-11e5-8a18-a382fe7b63bd.png" width="500">
 </p>
-
+# HijriDatePicker
+[![Build](https://github.com/applibgroup/HijriDatePicker/actions/workflows/main.yml/badge.svg)](https://github.com/applibgroup/HijriDatePicker/actions/workflows/main.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=applibgroup_HijriDatePicker&metric=alert_status)](https://sonarcloud.io/dashboard?id=applibgroup_HijriDatePicker)
 
 
 # Hijri Date Picker (UmAlQuraCalendar)
